@@ -1,0 +1,41 @@
+#main{
+    margin: 0px;
+    padding: 0px;
+    font-family:Century;
+    border-radius: 30px;
+}
+#header{
+    background-color: antiquewhite;
+    height: 100vh;
+    background-position: center;
+    min-height: 40px;
+    background-position: center;
+   
+}
+ul {
+    list-style-type: none;
+    margin-top: 30px;
+    min-height: 10px;
+    margin-right: 10px;
+    font-size: 17px;
+}
+
+ul a{
+    text-decoration: none;
+    color:black;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.5 ease;
+
+}
+ul a:hover
+{
+    background-color: cadetblue;
+    color: black;
+
+}
+#manoj{
+    border: 1px solid cadetblue;
+    height: 300px;
+    width: 700px;
+}
